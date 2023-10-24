@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/personality_test/static/css/main.59bf7289.css",
-    "main.js": "/personality_test/static/js/main.6e4c7666.js",
+    "main.css": "/personality_test/static/css/main.5986ed8a.css",
+    "main.js": "/personality_test/static/js/main.7a7b1247.js",
     "static/js/787.26f7b0a3.chunk.js": "/personality_test/static/js/787.26f7b0a3.chunk.js",
     "index.html": "/personality_test/index.html",
-    "main.59bf7289.css.map": "/personality_test/static/css/main.59bf7289.css.map",
-    "main.6e4c7666.js.map": "/personality_test/static/js/main.6e4c7666.js.map",
+    "main.5986ed8a.css.map": "/personality_test/static/css/main.5986ed8a.css.map",
+    "main.7a7b1247.js.map": "/personality_test/static/js/main.7a7b1247.js.map",
     "787.26f7b0a3.chunk.js.map": "/personality_test/static/js/787.26f7b0a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59bf7289.css",
-    "static/js/main.6e4c7666.js"
+    "static/css/main.5986ed8a.css",
+    "static/js/main.7a7b1247.js"
   ]
 }
